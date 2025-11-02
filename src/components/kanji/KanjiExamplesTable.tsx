@@ -1,3 +1,5 @@
+import { Highlighter } from '../ui/highlighter';
+
 interface KanjiExamplesTableProps {
   examples: {
     japanese: string;
@@ -10,7 +12,11 @@ interface KanjiExamplesTableProps {
 export default function KanjiExamplesTable({ examples, translatedExamples }: KanjiExamplesTableProps) {
   return (
     <div className="mb-10">
-      <h1 className="font-semibold text-xl mb-4">Contoh Kotoba</h1>
+      <h1 className="font-semibold text-xl mb-4">
+        <Highlighter color="#ffe093" action="highlight" strokeWidth={2}>
+          Contoh Kotoba
+        </Highlighter>
+      </h1>
       <div className="overflow-x-auto">
         <table className="min-w-full border border-gray-400 rounded-lg text-md text-center">
           <thead className="bg-black text-white">

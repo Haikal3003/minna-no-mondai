@@ -43,7 +43,7 @@ export default function KanjiDetails() {
     fetchAndTranslate();
   }, [word]);
 
-  if (loading) return <div className="p-4 text-gray-500">Loading...</div>;
+  if (loading) return <div className="loader fixed left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2"></div>;
   if (error) return <div className="p-4 text-red-500">{error}</div>;
   if (!kanjiDetails) return <div className="p-4">Tidak ada data ditemukan.</div>;
 

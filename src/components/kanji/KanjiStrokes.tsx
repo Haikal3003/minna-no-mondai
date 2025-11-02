@@ -1,3 +1,5 @@
+import { Highlighter } from '../ui/highlighter';
+
 interface KanjiStrokesProps {
   strokes: string[];
 }
@@ -5,7 +7,11 @@ interface KanjiStrokesProps {
 export default function KanjiStrokes({ strokes }: KanjiStrokesProps) {
   return (
     <div>
-      <h1 className="font-semibold text-xl mb-4">Urutan Tulis</h1>
+      <h1 className="font-semibold text-xl mb-4">
+        <Highlighter color="#c4efff" action="highlight" strokeWidth={2}>
+          Urutan Tulis
+        </Highlighter>
+      </h1>
       <ul className="flex flex-wrap gap-4">
         {strokes.map((image, idx) => (
           <li key={idx} className="relative">
