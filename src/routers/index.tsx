@@ -5,6 +5,7 @@ import About from '../pages/About';
 import Kotoba from '../pages/Kotoba';
 import Bunpou from '../pages/Bunpou';
 import Kanji from '../pages/Kanji';
+import KanjiDetails from '../pages/KanjiDetails';
 
 export const router = createBrowserRouter([
   {
@@ -14,7 +15,12 @@ export const router = createBrowserRouter([
       { index: true, element: <Home /> },
       { path: 'kotoba', element: <Kotoba /> },
       { path: 'bunpou', element: <Bunpou /> },
-      { path: 'kanji', element: <Kanji /> },
+      {
+        path: 'kanji',
+        element: <Kanji />,
+      },
+      { path: 'kanji/:word', element: <KanjiDetails /> },
+
       { path: 'tentang', element: <About /> },
     ],
   },
