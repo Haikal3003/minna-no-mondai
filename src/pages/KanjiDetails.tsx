@@ -6,30 +6,41 @@ import KanjiHeader from '../components/kanji/KanjiHeader';
 import KanjiVideo from '../components/kanji/KanjiVideo';
 import KanjiExamplesTable from '../components/kanji/KanjiExamplesTable';
 import KanjiStrokes from '../components/kanji/KanjiStrokes';
+import { translateToIndonesia } from '../utils/translate-meanings';
 
 export default function KanjiDetails() {
   const { word } = useParams<{ word: string }>();
 
   const [kanjiDetails, setKanjiDetails] = useState<KanjiDetailsProps | null>(null);
+  const [translatedMeaning, setTranslatedMeaning] = useState<string>('');
+  const [translatedExamples, setTranslatedExamples] = useState<string[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
     if (!word) return;
 
-    const fetchData = async () => {
+    const fetchAndTranslate = async () => {
+      setLoading(true);
       try {
-        setLoading(true);
-        const result = await getKanjiDetails(word);
-        setKanjiDetails(result);
-      } catch (err) {
-        setError(err as string);
+        const details = await getKanjiDetails(word);
+        setKanjiDetails(details);
+
+        const mainMeaning = details.kanji.meaning.english || '-';
+        const meaningID = await translateToIndonesia(mainMeaning);
+        setTranslatedMeaning(meaningID || mainMeaning);
+
+        const examplesEnglish = details.examples.map((e: { meaning: { english: string } }) => e.meaning.english);
+        const examplesID = await Promise.all(examplesEnglish.map(translateToIndonesia));
+        setTranslatedExamples(examplesID);
+      } catch (error) {
+        setError(error as string);
       } finally {
         setLoading(false);
       }
     };
 
-    fetchData();
+    fetchAndTranslate();
   }, [word]);
 
   if (loading) return <div className="p-4 text-gray-500">Loading...</div>;
@@ -38,7 +49,7 @@ export default function KanjiDetails() {
 
   return (
     <div className="py-20 text-black min-h-screen">
-      <KanjiHeader word={word!} kunyomi={kanjiDetails.kanji.kunyomi.hiragana} onyomi={kanjiDetails.kanji.onyomi.katakana} meaning={kanjiDetails.kanji.meaning.english} />
+      <KanjiHeader word={word!} kunyomi={kanjiDetails.kanji.kunyomi.hiragana} onyomi={kanjiDetails.kanji.onyomi.katakana} meaning={kanjiDetails.kanji.meaning.english} translatedMeaning={translatedMeaning} />
       <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
         <div className="md:col-span-1">
           <KanjiVideo videoUrl={kanjiDetails.kanji.video?.mp4} />
@@ -49,7 +60,7 @@ export default function KanjiDetails() {
         </div>
       </div>
 
-      <KanjiExamplesTable examples={kanjiDetails.examples} />
+      <KanjiExamplesTable examples={kanjiDetails.examples} translatedExamples={translatedExamples} />
     </div>
   );
 }

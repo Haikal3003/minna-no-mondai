@@ -3,9 +3,11 @@ interface KanjiExamplesTableProps {
     japanese: string;
     meaning: { english: string };
   }[];
+
+  translatedExamples: string[];
 }
 
-export default function KanjiExamplesTable({ examples }: KanjiExamplesTableProps) {
+export default function KanjiExamplesTable({ examples, translatedExamples }: KanjiExamplesTableProps) {
   return (
     <div className="mb-10">
       <h1 className="font-semibold text-xl mb-4">Contoh Kotoba</h1>
@@ -23,7 +25,7 @@ export default function KanjiExamplesTable({ examples }: KanjiExamplesTableProps
               <tr key={idx}>
                 <td className="px-4 py-2 border border-gray-300">{idx + 1}</td>
                 <td className="px-4 py-2 border border-gray-300">{example.japanese}</td>
-                <td className="px-4 py-2 border border-gray-300 text-gray-700">{example.meaning.english}</td>
+                <td className="px-4 py-2 border border-gray-300 text-gray-700">{translatedExamples[idx] || example.meaning.english}</td>
               </tr>
             ))}
           </tbody>
