@@ -7,7 +7,7 @@ import { StripedPattern } from './components/ui/striped-pattern';
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <StripedPattern className="text-red-300 [mask-image:radial-gradient(800px_circle_at_center,white,transparent)]" />
+    <StripedPattern className="text-amber-300 [mask-image:radial-gradient(700px_circle_at_center,white,transparent)]" />
     <RouterProvider router={router} />
   </StrictMode>
 );

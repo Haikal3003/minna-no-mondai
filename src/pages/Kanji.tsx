@@ -3,7 +3,6 @@ import { Highlighter } from '../components/ui/highlighter';
 import FilterDropdown, { type LevelType } from '../components/kanji/FilterDropdown';
 import { getKanjis } from '../hooks/getKanjis';
 import KanjiList from '../components/kanji/KanjiList';
-import { Outlet } from 'react-router-dom';
 
 export default function Kanji() {
   const levels = ['N5', 'N4', 'N3', 'N2', 'N1'];
@@ -35,7 +34,6 @@ export default function Kanji() {
       </div>
 
       <KanjiList kanjis={kanjis} isLoading={loading} />
-
     </div>
   );
 }
