@@ -35,7 +35,7 @@ export default function VocabTable({ filteredData, itemsPerPage = 20 }: VocabTab
               </tr>
             ) : (
               paginatedData.map((item: Kotoba, index: number) => (
-                <tr key={item.id} className="text-center text-sm">
+                <tr key={item.id} className="text-center text-sm max-sm:text-xs">
                   <td className="border border-black p-2">{startIndex + index + 1}</td>
                   <td className="border border-black p-2">{item.kanji || '-'}</td>
                   <td className="border border-black p-2">{item.hiragana || item.katakana || '-'}</td>

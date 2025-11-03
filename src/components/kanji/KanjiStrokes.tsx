@@ -7,7 +7,7 @@ interface KanjiStrokesProps {
 export default function KanjiStrokes({ strokes }: KanjiStrokesProps) {
   return (
     <div>
-      <h1 className="font-semibold text-xl mb-4">
+      <h1 className="font-semibold text-xl max-md:text-lg mb-4">
         <Highlighter color="#c4efff" action="highlight" strokeWidth={2}>
           Urutan Tulis
         </Highlighter>

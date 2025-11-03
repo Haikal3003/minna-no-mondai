@@ -5,7 +5,7 @@ export function RootLayout() {
   return (
     <>
       <Navbar />
-      <main className="px-56 ">
+      <main className="px-56 max-sm:px-6">
         <Outlet />
       </main>
     </>

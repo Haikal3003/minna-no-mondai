@@ -1,13 +1,13 @@
 import axios from 'axios';
 
-const PUBLIC_KANJI_RAPIDAPI_URL = 'https://kanjialive-api.p.rapidapi.com/api/public/kanji';
+const PUBLIC_KANJI_RAPIDAPI_URL = import.meta.env.VITE_PUBLIC_KANJI_RAPIDAPI_URL;
 
 export async function getKanjiDetails(kanji: string) {
   try {
     const res = await axios.get(`${PUBLIC_KANJI_RAPIDAPI_URL}/${kanji}`, {
       headers: {
-        'x-rapidapi-key': '5f17f1e40amsh8626ff2c006627ap1c30f7jsna2424ce9ff2f',
-        'x-rapidapi-host': 'kanjialive-api.p.rapidapi.com',
+        'x-rapidapi-key': `${import.meta.env.VITE_RAPIDAPI_KEY}`,
+        'x-rapidapi-host': `${import.meta.env.VITE_RAPIDAPI_HOST}`,
       },
     });
 

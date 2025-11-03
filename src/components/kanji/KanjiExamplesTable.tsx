@@ -12,13 +12,13 @@ interface KanjiExamplesTableProps {
 export default function KanjiExamplesTable({ examples, translatedExamples }: KanjiExamplesTableProps) {
   return (
     <div className="mb-10">
-      <h1 className="font-semibold text-xl mb-4">
+      <h1 className="font-semibold text-xl max-md:text-lg mb-4">
         <Highlighter color="#ffe093" action="highlight" strokeWidth={2}>
           Contoh Kotoba
         </Highlighter>
       </h1>
       <div className="overflow-x-auto">
-        <table className="min-w-full border border-gray-400 rounded-lg text-md text-center">
+        <table className="min-w-full border border-gray-400 rounded-lg text-md max-md:text-sm text-center">
           <thead className="bg-black text-white">
             <tr>
               <th className="px-4 py-2 border border-gray-400">No</th>
