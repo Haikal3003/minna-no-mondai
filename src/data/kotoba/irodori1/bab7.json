@@ -1,0 +1,274 @@
+[
+  {
+    "id": 314,
+    "hiragana": "えき",
+    "kanji": "駅",
+    "type": "kb",
+    "pitch": "え↓き",
+    "meaning": "stasiun"
+  },
+  {
+    "id": 315,
+    "hiragana": "うけつけ",
+    "kanji": "受付",
+    "type": "kb",
+    "pitch": "うけつけ○",
+    "meaning": "resepsionis; meja informasi"
+  },
+  {
+    "id": 316,
+    "hiragana": "ホール",
+    "kanji": "ホール",
+    "type": "kb",
+    "pitch": "ホ↓ール",
+    "meaning": "aula"
+  },
+  {
+    "id": 317,
+    "hiragana": "かいしゃ",
+    "kanji": "会社",
+    "type": "kb",
+    "pitch": "かいしゃ○",
+    "meaning": "perusahaan"
+  },
+  {
+    "id": 318,
+    "hiragana": "もん",
+    "kanji": "門",
+    "type": "kb",
+    "pitch": "も↓ん",
+    "meaning": "gerbang"
+  },
+  {
+    "id": 319,
+    "hiragana": "しゅうごう（する）",
+    "kanji": "集合（する）［3］",
+    "type": "kk",
+    "pitch": "しゅうごう○",
+    "meaning": "berkumpul"
+  },
+  {
+    "id": 320,
+    "hiragana": "では",
+    "kanji": "では",
+    "type": "kk",
+    "pitch": "で↓は",
+    "meaning": "jadi"
+  },
+  {
+    "id": 321,
+    "hiragana": "あんないする",
+    "kanji": "案内する［3］",
+    "type": "kk",
+    "pitch": "あんな↓いする",
+    "meaning": "memandu"
+  },
+  {
+    "id": 322,
+    "hiragana": "まちあわせ",
+    "kanji": "待ち合わせ",
+    "type": "kb",
+    "pitch": "まちあわせ○",
+    "meaning": "janjian bertemu"
+  },
+  {
+    "id": 323,
+    "hiragana": "イベント",
+    "kanji": "イベント",
+    "type": "kb",
+    "pitch": "イベント○",
+    "meaning": "acara"
+  },
+  {
+    "id": 324,
+    "hiragana": "はじまる",
+    "kanji": "始まる［1］",
+    "type": "kk",
+    "pitch": "はじまる○",
+    "meaning": "mulai"
+  },
+  {
+    "id": 325,
+    "hiragana": "スタッフ",
+    "kanji": "スタッフ",
+    "type": "kb",
+    "pitch": "スタ↓ッフ",
+    "meaning": "staf"
+  },
+  {
+    "id": 326,
+    "hiragana": "～まえ",
+    "kanji": "～前",
+    "type": "et",
+    "pitch": "さんじゅっぷ↓んまえ",
+    "meaning": "~sebelum (misal: 30 menit sebelum)"
+  },
+  {
+    "id": 327,
+    "hiragana": "まちあわせする",
+    "kanji": "待ち合わせする［3］",
+    "type": "kk",
+    "pitch": "まちあわせする○",
+    "meaning": "bertemu (saling bertemu)"
+  },
+  {
+    "id": 328,
+    "hiragana": "へいわ",
+    "kanji": "平和",
+    "type": "kb",
+    "pitch": "へいわ○",
+    "meaning": "perdamaian"
+  },
+  {
+    "id": 329,
+    "hiragana": "とり",
+    "kanji": "鳥",
+    "type": "kb",
+    "pitch": "とり○",
+    "meaning": "burung"
+  },
+  {
+    "id": 330,
+    "hiragana": "ぞう",
+    "kanji": "像",
+    "type": "kb",
+    "pitch": "ぞ↓う",
+    "meaning": "patung"
+  },
+  {
+    "id": 331,
+    "hiragana": "それ、なんですか？",
+    "kanji": "それ、何ですか？",
+    "type": "eksp",
+    "pitch": "それ○、な↓んですか？",
+    "meaning": "Apa itu? (menanyakan ulang apa yang pembicara katakan)"
+  },
+  {
+    "id": 332,
+    "hiragana": "じこ",
+    "kanji": "事故",
+    "type": "kb",
+    "pitch": "じ↓こ",
+    "meaning": "kecelakaan"
+  },
+  {
+    "id": 333,
+    "hiragana": "とまる",
+    "kanji": "止まる［1］",
+    "type": "kk",
+    "pitch": "とまる○",
+    "meaning": "berhenti"
+  },
+  {
+    "id": 334,
+    "hiragana": "れんらくする",
+    "kanji": "連絡する［3］",
+    "type": "kk",
+    "pitch": "れんらくする○",
+    "meaning": "menghubungi"
+  },
+  {
+    "id": 335,
+    "hiragana": "ねぼうする",
+    "kanji": "寝坊する［3］",
+    "type": "kk",
+    "pitch": "ねぼうする○",
+    "meaning": "kesiangan; terlambat bangun"
+  },
+  {
+    "id": 336,
+    "hiragana": "いまから",
+    "kanji": "今から",
+    "type": "kk",
+    "pitch": "い↓まから",
+    "meaning": "dari sekarang"
+  },
+  {
+    "id": 337,
+    "hiragana": "いそぐ",
+    "kanji": "急ぐ［1］",
+    "type": "kk",
+    "pitch": "いそ↓ぐ",
+    "meaning": "bergegas"
+  },
+  {
+    "id": 338,
+    "hiragana": "さきに",
+    "kanji": "先に",
+    "type": "kk",
+    "pitch": "さきに○",
+    "meaning": "lebih dulu"
+  },
+  {
+    "id": 339,
+    "hiragana": "はじめる",
+    "kanji": "始める［2］",
+    "type": "kk",
+    "pitch": "はじめる○",
+    "meaning": "memulai"
+  },
+  {
+    "id": 340,
+    "hiragana": "みちにまよう",
+    "kanji": "道に迷う［1］",
+    "type": "kk",
+    "pitch": "みちにまよ↓う",
+    "meaning": "tersesat; salah jalan"
+  },
+  {
+    "id": 341,
+    "hiragana": "おくれる",
+    "kanji": "遅れる［2］",
+    "type": "kk",
+    "pitch": "おくれる○",
+    "meaning": "terlambat"
+  },
+  {
+    "id": 342,
+    "hiragana": "つく",
+    "kanji": "着く［1］",
+    "type": "kk",
+    "pitch": "つ↓く",
+    "meaning": "tiba"
+  },
+  {
+    "id": 343,
+    "hiragana": "だいじょうぶ（な）",
+    "kanji": "大丈夫（な）",
+    "type": "ks",
+    "pitch": "だいじょう↓ぶ",
+    "meaning": "tidak apa-apa; tidak masalah"
+  },
+  {
+    "id": 344,
+    "hiragana": "じかん",
+    "kanji": "時間",
+    "type": "kb",
+    "pitch": "じかん○",
+    "meaning": "waktu"
+  },
+  {
+    "id": 345,
+    "hiragana": "まちがえる",
+    "kanji": "間違える［2］",
+    "type": "kk",
+    "pitch": "まちが↓える",
+    "meaning": "salah; salah paham"
+  },
+  {
+    "id": 346,
+    "hiragana": "まつ",
+    "kanji": "待つ［1］",
+    "type": "kk",
+    "pitch": "ま↓つ",
+    "meaning": "menunggu"
+  },
+  {
+    "id": 347,
+    "hiragana": "カフェ",
+    "kanji": "カフェ",
+    "type": "kb",
+    "pitch": "カ↓フェ",
+    "meaning": "kafe"
+  }
+]

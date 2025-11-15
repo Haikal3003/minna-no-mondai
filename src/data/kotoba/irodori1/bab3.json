@@ -1,0 +1,84 @@
+[
+  { "id": 123, "hiragana": "きせつ", "kanji": "季節", "meaning": "musim", "type": "kb", "source": "irodori1", "chapter": "3" },
+  { "id": 124, "hiragana": "ことば", "kanji": "言葉", "meaning": "kata; kosakata", "type": "kb", "source": "irodori1", "chapter": "3" },
+
+  { "id": 125, "hiragana": "あつい", "kanji": "暑い", "meaning": "panas", "type": "ks", "source": "irodori1", "chapter": "3" },
+  { "id": 126, "hiragana": "すずしい", "kanji": "涼しい", "meaning": "sejuk", "type": "ks", "source": "irodori1", "chapter": "3" },
+  { "id": 127, "hiragana": "さむい", "kanji": "寒い", "meaning": "dingin", "type": "ks", "source": "irodori1", "chapter": "3" },
+  { "id": 128, "hiragana": "あたたかい", "kanji": "暖かい", "meaning": "hangat", "type": "ks", "source": "irodori1", "chapter": "3" },
+
+  { "id": 129, "hiragana": "じめじめする", "kanji": "", "meaning": "panas dan lembab", "type": "kk", "source": "irodori1", "chapter": "3" },
+  { "id": 130, "hiragana": "むしあつい", "kanji": "蒸し暑い", "meaning": "panas dan pengap / gerah", "type": "ks", "source": "irodori1", "chapter": "3" },
+
+  { "id": 131, "hiragana": "あめ", "kanji": "雨", "meaning": "hujan", "type": "kb", "source": "irodori1", "chapter": "3" },
+  { "id": 132, "hiragana": "ふる", "kanji": "降る", "meaning": "turun (hujan, salju, dll.)", "type": "kk", "source": "irodori1", "chapter": "3" },
+
+  { "id": 133, "hiragana": "ゆき", "kanji": "雪", "meaning": "salju", "type": "kb", "source": "irodori1", "chapter": "3" },
+
+  { "id": 134, "hiragana": "さくら", "kanji": "桜", "meaning": "bunga sakura", "type": "kb", "source": "irodori1", "chapter": "3" },
+  { "id": 135, "hiragana": "はな", "kanji": "花", "meaning": "bunga", "type": "kb", "source": "irodori1", "chapter": "3" },
+  { "id": 136, "hiragana": "さく", "kanji": "咲く", "meaning": "mekar", "type": "kk", "source": "irodori1", "chapter": "3" },
+
+  { "id": 137, "hiragana": "もみじ", "kanji": "紅葉", "meaning": "daun berubah warna saat musim gugur", "type": "kb", "source": "irodori1", "chapter": "3" },
+
+  { "id": 138, "hiragana": "きれい", "kanji": "綺麗", "meaning": "indah; cantik", "type": "ks-na", "source": "irodori1", "chapter": "3" },
+
+  { "id": 139, "hiragana": "セミ", "kanji": "", "meaning": "tonggeret", "type": "kb", "source": "irodori1", "chapter": "3" },
+  { "id": 140, "hiragana": "なく", "kanji": "鳴く", "meaning": "bersuara (hewan/serangga)", "type": "kk", "source": "irodori1", "chapter": "3" },
+
+  { "id": 141, "hiragana": "はる", "kanji": "春", "meaning": "musim semi", "type": "kb", "source": "irodori1", "chapter": "3" },
+  { "id": 142, "hiragana": "つゆ", "kanji": "梅雨", "meaning": "musim hujan (akhir Mei–Juli)", "type": "kb", "source": "irodori1", "chapter": "3" },
+
+  { "id": 143, "hiragana": "なつ", "kanji": "夏", "meaning": "musim panas", "type": "kb", "source": "irodori1", "chapter": "3" },
+  { "id": 144, "hiragana": "あき", "kanji": "秋", "meaning": "musim gugur", "type": "kb", "source": "irodori1", "chapter": "3" },
+  { "id": 145, "hiragana": "ふゆ", "kanji": "冬", "meaning": "musim dingin", "type": "kb", "source": "irodori1", "chapter": "3" },
+
+  { "id": 146, "hiragana": "たくさん", "kanji": "", "meaning": "banyak", "type": "ktr", "source": "irodori1", "chapter": "3" },
+
+  { "id": 147, "hiragana": "がっこう", "kanji": "学校", "meaning": "sekolah", "type": "kb", "source": "irodori1", "chapter": "3" },
+
+  { "id": 148, "hiragana": "なる", "kanji": "なる", "meaning": "menjadi (contoh: menjadi hari libur)", "type": "kk", "source": "irodori1", "chapter": "3" },
+
+  { "id": 149, "hiragana": "いちねんじゅう", "kanji": "一年中", "meaning": "sepanjang tahun", "type": "ktr", "source": "irodori1", "chapter": "3" },
+
+  { "id": 150, "hiragana": "ながい", "kanji": "長い", "meaning": "panjang", "type": "ks", "source": "irodori1", "chapter": "3" },
+
+  { "id": 151, "hiragana": "ずっと", "kanji": "", "meaning": "terus-menerus", "type": "ktr", "source": "irodori1", "chapter": "3" },
+
+  { "id": 152, "hiragana": "うき", "kanji": "雨季", "meaning": "musim hujan", "type": "kb", "source": "irodori1", "chapter": "3" },
+  { "id": 153, "hiragana": "かんき", "kanji": "乾季", "meaning": "musim kemarau", "type": "kb", "source": "irodori1", "chapter": "3" },
+
+  { "id": 154, "hiragana": "しき", "kanji": "四季", "meaning": "empat musim", "type": "kb", "source": "irodori1", "chapter": "3" },
+
+  { "id": 155, "hiragana": "おなじ", "kanji": "同じ", "meaning": "sama", "type": "ks-na", "source": "irodori1", "chapter": "3" },
+
+  { "id": 156, "hiragana": "～ど", "kanji": "度", "meaning": "derajat (contoh: 40 derajat)", "type": "ktr", "source": "irodori1", "chapter": "3" },
+  { "id": 157, "hiragana": "マイナス", "kanji": "", "meaning": "minus", "type": "ktr", "source": "irodori1", "chapter": "3" },
+
+  { "id": 158, "hiragana": "みじかい", "kanji": "短い", "meaning": "pendek", "type": "ks", "source": "irodori1", "chapter": "3" },
+
+  { "id": 159, "hiragana": "そうなんですか", "kanji": "", "meaning": "Oh, begitu", "type": "ungkapan", "source": "irodori1", "chapter": "3" },
+
+  { "id": 160, "hiragana": "くだもの", "kanji": "果物", "meaning": "buah-buahan", "type": "kb", "source": "irodori1", "chapter": "3" },
+
+  { "id": 161, "hiragana": "おいしい", "kanji": "", "meaning": "enak; lezat", "type": "ks", "source": "irodori1", "chapter": "3" },
+
+  { "id": 162, "hiragana": "けしき", "kanji": "景色", "meaning": "pemandangan", "type": "kb", "source": "irodori1", "chapter": "3" },
+
+  { "id": 163, "hiragana": "やま", "kanji": "山", "meaning": "gunung", "type": "kb", "source": "irodori1", "chapter": "3" },
+
+  { "id": 164, "hiragana": "あそぶ", "kanji": "遊ぶ", "meaning": "bermain", "type": "kk", "source": "irodori1", "chapter": "3" },
+
+  { "id": 165, "hiragana": "すき", "kanji": "好き（な）", "meaning": "favorit; suka", "type": "ks-na", "source": "irodori1", "chapter": "3" },
+  { "id": 166, "hiragana": "にがて", "kanji": "苦手（な）", "meaning": "tidak suka; tidak mahir", "type": "ks-na", "source": "irodori1", "chapter": "3" },
+
+  { "id": 167, "hiragana": "いちばん", "kanji": "", "meaning": "paling", "type": "ktr", "source": "irodori1", "chapter": "3" },
+  { "id": 168, "hiragana": "どうして", "kanji": "", "meaning": "mengapa", "type": "ktr", "source": "irodori1", "chapter": "3" },
+  { "id": 169, "hiragana": "どの", "kanji": "", "meaning": "yang mana (lebih dari tiga)", "type": "ktr", "source": "irodori1", "chapter": "3" },
+
+  { "id": 170, "hiragana": "～よね", "kanji": "", "meaning": "~ya, kan?", "type": "partikel", "source": "irodori1", "chapter": "3" },
+
+  { "id": 171, "hiragana": "ぶどう", "kanji": "葡萄", "meaning": "anggur", "type": "kb", "source": "irodori1", "chapter": "3" },
+
+  { "id": 172, "hiragana": "なし", "kanji": "梨", "meaning": "pir", "type": "kb", "source": "irodori1", "chapter": "3" }
+]

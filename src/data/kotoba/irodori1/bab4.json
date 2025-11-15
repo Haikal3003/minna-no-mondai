@@ -1,0 +1,68 @@
+[
+  { "id": 173, "hiragana": "てんき", "kanji": "天気", "meaning": "cuaca", "type": "kb", "source": "irodori1", "chapter": "4" },
+  { "id": 174, "hiragana": "はれ", "kanji": "晴れ", "meaning": "cerah; cuaca baik", "type": "kb", "source": "irodori1", "chapter": "4" },
+  { "id": 175, "hiragana": "はれる", "kanji": "晴れる", "meaning": "menjadi cerah", "type": "kb", "source": "irodori1", "chapter": "4" },
+  { "id": 176, "hiragana": "いいてんき", "kanji": "いい天気", "meaning": "cuacanya cerah; cuaca baik", "type": "kb", "source": "irodori1", "chapter": "4" },
+
+  { "id": 177, "hiragana": "くもり", "kanji": "くもり", "meaning": "berawan", "type": "kb", "source": "irodori1", "chapter": "4" },
+  { "id": 178, "hiragana": "くもる", "kanji": "くもる", "meaning": "mendung; menjadi berawan", "type": "kb", "source": "irodori1", "chapter": "4" },
+
+  { "id": 179, "hiragana": "あめ", "kanji": "雨", "meaning": "hujan", "type": "kb", "source": "irodori1", "chapter": "4" },
+  { "id": 180, "hiragana": "ふる", "kanji": "降る", "meaning": "turun (hujan, salju)", "type": "kb", "source": "irodori1", "chapter": "4" },
+
+  { "id": 181, "hiragana": "かぜ", "kanji": "風", "meaning": "angin", "type": "kb", "source": "irodori1", "chapter": "4" },
+  { "id": 182, "hiragana": "ふく", "kanji": "吹く", "meaning": "(angin) bertiup; meniup", "type": "kb", "source": "irodori1", "chapter": "4" },
+
+  { "id": 183, "hiragana": "かみなり", "kanji": "雷", "meaning": "guntur", "type": "kb", "source": "irodori1", "chapter": "4" },
+  { "id": 184, "hiragana": "なる", "kanji": "鳴る", "meaning": "(guntur) bergemuruh", "type": "kb", "source": "irodori1", "chapter": "4" },
+
+  { "id": 185, "hiragana": "いま", "kanji": "今", "meaning": "sekarang", "type": "kb", "source": "irodori1", "chapter": "4" },
+  { "id": 186, "hiragana": "きのう", "kanji": "昨日", "meaning": "kemarin", "type": "kb", "source": "irodori1", "chapter": "4" },
+
+  { "id": 187, "hiragana": "だいぶ", "kanji": "だいぶ", "meaning": "banyak; cukup", "type": "kb", "source": "irodori1", "chapter": "4" },
+  { "id": 188, "hiragana": "いやになる", "kanji": "嫌になる", "meaning": "mengesalkan; mengganggu", "type": "kb", "source": "irodori1", "chapter": "4" },
+
+  { "id": 189, "hiragana": "ゆうべ", "kanji": "ゆうべ", "meaning": "tadi malam", "type": "kb", "source": "irodori1", "chapter": "4" },
+  { "id": 190, "hiragana": "すごい", "kanji": "すごい", "meaning": "deras; hebat", "type": "kb", "source": "irodori1", "chapter": "4" },
+
+  { "id": 191, "hiragana": "ほんとうですね", "kanji": "本当ですね", "meaning": "benar sekali", "type": "kb", "source": "irodori1", "chapter": "4" },
+
+  { "id": 192, "hiragana": "よなか", "kanji": "夜中", "meaning": "tengah malam", "type": "kb", "source": "irodori1", "chapter": "4" },
+  { "id": 193, "hiragana": "あした", "kanji": "明日", "meaning": "besok", "type": "kb", "source": "irodori1", "chapter": "4" },
+
+  { "id": 194, "hiragana": "いちにち", "kanji": "一日", "meaning": "sepanjang hari", "type": "kb", "source": "irodori1", "chapter": "4" },
+
+  { "id": 195, "hiragana": "やむ", "kanji": "やむ", "meaning": "berhenti (hujan)", "type": "kb", "source": "irodori1", "chapter": "4" },
+
+  { "id": 196, "hiragana": "ただ", "kanji": "ただ", "meaning": "tapi", "type": "kb", "source": "irodori1", "chapter": "4" },
+
+  { "id": 197, "hiragana": "つよい", "kanji": "強い", "meaning": "kuat", "type": "kb", "source": "irodori1", "chapter": "4" },
+
+  { "id": 198, "hiragana": "ふくそう", "kanji": "服装", "meaning": "pakaian", "type": "kb", "source": "irodori1", "chapter": "4" },
+
+  { "id": 199, "hiragana": "おでかけください", "kanji": "お出かけください", "meaning": "silakan bepergian", "type": "kb", "source": "irodori1", "chapter": "4" },
+
+  { "id": 200, "hiragana": "たいふう", "kanji": "台風", "meaning": "topan", "type": "kb", "source": "irodori1", "chapter": "4" },
+
+  { "id": 201, "hiragana": "そと", "kanji": "外", "meaning": "di luar", "type": "kb", "source": "irodori1", "chapter": "4" },
+
+  { "id": 202, "hiragana": "しぬ", "kanji": "死ぬ", "meaning": "mati", "type": "kb", "source": "irodori1", "chapter": "4" },
+
+  { "id": 203, "hiragana": "きおん", "kanji": "気温", "meaning": "suhu udara", "type": "kb", "source": "irodori1", "chapter": "4" },
+
+  { "id": 204, "hiragana": "アイス", "kanji": "アイス", "meaning": "es krim", "type": "kb", "source": "irodori1", "chapter": "4" },
+
+  { "id": 205, "hiragana": "まち", "kanji": "町", "meaning": "kota", "type": "kb", "source": "irodori1", "chapter": "4" },
+
+  { "id": 206, "hiragana": "さわる", "kanji": "触る", "meaning": "menyentuh", "type": "kb", "source": "irodori1", "chapter": "4" },
+
+  { "id": 207, "hiragana": "つめたい", "kanji": "冷たい", "meaning": "dingin", "type": "kb", "source": "irodori1", "chapter": "4" },
+
+  { "id": 208, "hiragana": "まっしろ", "kanji": "まっ白", "meaning": "putih bersih", "type": "kb", "source": "irodori1", "chapter": "4" },
+
+  { "id": 209, "hiragana": "とっても", "kanji": "とっても", "meaning": "sangat; banget", "type": "kb", "source": "irodori1", "chapter": "4" },
+
+  { "id": 210, "hiragana": "まだ", "kanji": "まだ", "meaning": "belum", "type": "kb", "source": "irodori1", "chapter": "4" },
+
+  { "id": 211, "hiragana": "おくれる", "kanji": "遅れる", "meaning": "terlambat", "type": "kb", "source": "irodori1", "chapter": "4" }
+]

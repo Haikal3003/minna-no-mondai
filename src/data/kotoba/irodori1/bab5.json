@@ -1,0 +1,75 @@
+[
+  { "id": 212, "hiragana": "どんな", "kanji": "", "meaning": "bagaimana", "type": "kb", "source": "irodori1", "chapter": "5" },
+  { "id": 213, "hiragana": "まち", "kanji": "町", "meaning": "kota", "type": "kb", "source": "irodori1", "chapter": "5" },
+  { "id": 214, "hiragana": "べんり（な）", "kanji": "便利（な）", "meaning": "praktis", "type": "kb", "source": "irodori1", "chapter": "5" },
+  { "id": 215, "hiragana": "ふべん（な）", "kanji": "不便（な）", "meaning": "tidak praktis", "type": "kb", "source": "irodori1", "chapter": "5" },
+  { "id": 216, "hiragana": "にぎやか（な）", "kanji": "", "meaning": "ramai", "type": "kb", "source": "irodori1", "chapter": "5" },
+  { "id": 217, "hiragana": "みどり", "kanji": "緑", "meaning": "pepohonan; tanaman hijau", "type": "kb", "source": "irodori1", "chapter": "5" },
+  { "id": 218, "hiragana": "おおい", "kanji": "多い", "meaning": "banyak", "type": "kb", "source": "irodori1", "chapter": "5" },
+  { "id": 219, "hiragana": "すくない", "kanji": "少ない", "meaning": "sedikit", "type": "kb", "source": "irodori1", "chapter": "5" },
+  { "id": 220, "hiragana": "ひと", "kanji": "人", "meaning": "orang", "type": "kb", "source": "irodori1", "chapter": "5" },
+  { "id": 221, "hiragana": "やさしい", "kanji": "", "meaning": "ramah", "type": "kb", "source": "irodori1", "chapter": "5" },
+  { "id": 222, "hiragana": "しんせつ（な）", "kanji": "親切（な）", "meaning": "baik hati", "type": "kb", "source": "irodori1", "chapter": "5" },
+  { "id": 223, "hiragana": "つめたい", "kanji": "冷たい", "meaning": "dingin (sikap); tidak peduli", "type": "kb", "source": "irodori1", "chapter": "5" },
+  { "id": 224, "hiragana": "いなか", "kanji": "田舎", "meaning": "desa; pedesaan", "type": "kb", "source": "irodori1", "chapter": "5" },
+  { "id": 225, "hiragana": "とかい", "kanji": "都会", "meaning": "kota", "type": "kb", "source": "irodori1", "chapter": "5" },
+  { "id": 226, "hiragana": "きれい（な）", "kanji": "", "meaning": "indah", "type": "kb", "source": "irodori1", "chapter": "5" },
+  { "id": 227, "hiragana": "たしかに", "kanji": "確かに", "meaning": "pastinya", "type": "kb", "source": "irodori1", "chapter": "5" },
+  { "id": 228, "hiragana": "すみやすい", "kanji": "住みやすい", "meaning": "nyaman", "type": "kb", "source": "irodori1", "chapter": "5" },
+  { "id": 229, "hiragana": "みせ", "kanji": "店", "meaning": "toko / restoran", "type": "kb", "source": "irodori1", "chapter": "5" },
+  { "id": 230, "hiragana": "やすい", "kanji": "安い", "meaning": "murah", "type": "kb", "source": "irodori1", "chapter": "5" },
+  { "id": 231, "hiragana": "おもしろい", "kanji": "", "meaning": "menarik", "type": "kb", "source": "irodori1", "chapter": "5" },
+  { "id": 232, "hiragana": "とおい", "kanji": "遠い", "meaning": "jauh", "type": "kb", "source": "irodori1", "chapter": "5" },
+  { "id": 233, "hiragana": "どこか", "kanji": "", "meaning": "suatu tempat", "type": "kb", "source": "irodori1", "chapter": "5" },
+  { "id": 234, "hiragana": "ところ", "kanji": "所", "meaning": "tempat", "type": "kb", "source": "irodori1", "chapter": "5" },
+
+  { "id": 235, "katakana": "スポーツセンター", "kanji": "", "meaning": "sports center; pusat olahraga", "type": "kb", "source": "irodori1", "chapter": "5" },
+
+  { "id": 236, "hiragana": "たてもの", "kanji": "建物", "meaning": "bangunan", "type": "kb", "source": "irodori1", "chapter": "5" },
+
+  { "id": 237, "katakana": "ショッピングモール", "kanji": "", "meaning": "pusat perbelanjaan", "type": "kb", "source": "irodori1", "chapter": "5" },
+
+  { "id": 238, "hiragana": "いちど", "kanji": "一度", "meaning": "sekali; satu kali", "type": "kb", "source": "irodori1", "chapter": "5" },
+  { "id": 239, "hiragana": "いってみる", "kanji": "行ってみる", "meaning": "mencoba pergi", "type": "kb", "source": "irodori1", "chapter": "5" },
+  { "id": 240, "hiragana": "ばしょ", "kanji": "場所", "meaning": "tempat", "type": "kb", "source": "irodori1", "chapter": "5" },
+  { "id": 241, "hiragana": "ぜひ", "kanji": "", "meaning": "pastikan; jangan sampai tidak", "type": "kb", "source": "irodori1", "chapter": "5" },
+  { "id": 242, "hiragana": "おすすめ", "kanji": "", "meaning": "direkomendasikan", "type": "kb", "source": "irodori1", "chapter": "5" },
+  { "id": 243, "hiragana": "しっている", "kanji": "知っている", "meaning": "mengetahui", "type": "kb", "source": "irodori1", "chapter": "5" },
+  { "id": 244, "hiragana": "しる", "kanji": "知る", "meaning": "mengetahui", "type": "kb", "source": "irodori1", "chapter": "5" },
+
+  { "id": 245, "hiragana": "きゅうけいじょ", "kanji": "休憩所", "meaning": "tempat istirahat", "type": "kb", "source": "irodori1", "chapter": "5" },
+
+  { "id": 246, "hiragana": "そうね……", "kanji": "", "meaning": "Hmm... (berpikir)", "type": "kb", "source": "irodori1", "chapter": "5" },
+  { "id": 247, "hiragana": "そうだなあ", "kanji": "", "meaning": "Hmm.. apa ya.. (berpikir)", "type": "kb", "source": "irodori1", "chapter": "5" },
+
+  { "id": 248, "hiragana": "うつくしい", "kanji": "美しい", "meaning": "indah", "type": "kb", "source": "irodori1", "chapter": "5" },
+  { "id": 249, "hiragana": "すなはま", "kanji": "砂浜", "meaning": "pantai berpasir", "type": "kb", "source": "irodori1", "chapter": "5" },
+
+  { "id": 250, "hiragana": "ゆうめい（な）", "kanji": "有名（な）", "meaning": "terkenal", "type": "kb", "source": "irodori1", "chapter": "5" },
+
+  { "id": 251, "hiragana": "およぐ", "kanji": "泳ぐ", "meaning": "berenang", "type": "kb", "source": "irodori1", "chapter": "5" },
+
+  { "id": 252, "hiragana": "おか", "kanji": "丘", "meaning": "bukit", "type": "kb", "source": "irodori1", "chapter": "5" },
+
+  { "id": 253, "hiragana": "みわたす", "kanji": "見渡す", "meaning": "memandang ke sekeliling", "type": "kb", "source": "irodori1", "chapter": "5" },
+
+  { "id": 254, "hiragana": "ゆうひ", "kanji": "夕日", "meaning": "matahari terbenam", "type": "kb", "source": "irodori1", "chapter": "5" },
+
+  { "id": 255, "katakana": "タウンマップ", "kanji": "", "meaning": "peta kota", "type": "kb", "source": "irodori1", "chapter": "5" },
+
+  { "id": 256, "hiragana": "めいぶつ", "kanji": "名物", "meaning": "makanan khas lokal", "type": "kb", "source": "irodori1", "chapter": "5" },
+
+  { "id": 257, "hiragana": "ひょうばん", "kanji": "評判", "meaning": "reputasi", "type": "kb", "source": "irodori1", "chapter": "5" },
+
+  { "id": 258, "katakana": "ヘクタール", "kanji": "", "meaning": "~ ha (hektar)", "type": "kb", "source": "irodori1", "chapter": "5" },
+
+  { "id": 259, "katakana": "バーベキューじょう", "kanji": "バーベキュー場", "meaning": "area barbeku (BBQ)", "type": "kb", "source": "irodori1", "chapter": "5" },
+
+  { "id": 260, "katakana": "サイクリングコース", "kanji": "", "meaning": "jalur sepeda", "type": "kb", "source": "irodori1", "chapter": "5" },
+
+  { "id": 261, "hiragana": "にんき", "kanji": "人気", "meaning": "populer", "type": "kb", "source": "irodori1", "chapter": "5" },
+
+  { "id": 262, "katakana": "ビーチ", "kanji": "", "meaning": "pantai", "type": "kb", "source": "irodori1", "chapter": "5" },
+
+  { "id": 263, "hiragana": "てんぼうだい", "kanji": "展望台", "meaning": "observatorium", "type": "kb", "source": "irodori1", "chapter": "5" }
+]

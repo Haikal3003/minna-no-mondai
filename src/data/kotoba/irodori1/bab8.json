@@ -1,0 +1,434 @@
+[
+  {
+    "id": 348,
+    "hiragana": "どうぶつえん",
+    "kanji": "動物園",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "kebun binatang"
+  },
+  {
+    "id": 349,
+    "hiragana": "おしろ",
+    "kanji": "お城",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "istana"
+  },
+  {
+    "id": 350,
+    "hiragana": "レストラン",
+    "kanji": "",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "restoran"
+  },
+  {
+    "id": 351,
+    "hiragana": "はくぶつかん",
+    "kanji": "博物館",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "museum"
+  },
+  {
+    "id": 352,
+    "hiragana": "アウトレットモール",
+    "kanji": "",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "outlet mall"
+  },
+  {
+    "id": 353,
+    "hiragana": "プロレス",
+    "kanji": "",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "gulat profesional"
+  },
+  {
+    "id": 354,
+    "hiragana": "タワー",
+    "kanji": "",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "menara"
+  },
+  {
+    "id": 355,
+    "hiragana": "やきゅう",
+    "kanji": "野球",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "bisbol"
+  },
+  {
+    "id": 356,
+    "hiragana": "もう",
+    "kanji": "",
+    "type": "kt",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "sudah"
+  },
+  {
+    "id": 357,
+    "hiragana": "まだ",
+    "kanji": "",
+    "type": "kt",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "belum"
+  },
+  {
+    "id": 358,
+    "hiragana": "アジア",
+    "kanji": "",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "Asia"
+  },
+  {
+    "id": 359,
+    "hiragana": "すごく",
+    "kanji": "",
+    "type": "kt",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "sangat"
+  },
+  {
+    "id": 360,
+    "hiragana": "しみんたいいくかん",
+    "kanji": "市民体育館",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "gimnasium / gedung olahraga publik"
+  },
+  {
+    "id": 361,
+    "hiragana": "しあい",
+    "kanji": "試合",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "pertandingan"
+  },
+  {
+    "id": 362,
+    "hiragana": "やる",
+    "kanji": "",
+    "type": "kk",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "melakukan"
+  },
+  {
+    "id": 363,
+    "hiragana": "メンバー",
+    "kanji": "",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "anggota"
+  },
+  {
+    "id": 364,
+    "hiragana": "たりない",
+    "kanji": "足りない",
+    "type": "ks",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "tidak cukup; kurang"
+  },
+  {
+    "id": 365,
+    "hiragana": "むり（な）",
+    "kanji": "無理（な）",
+    "type": "kn",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "tidak mungkin"
+  },
+  {
+    "id": 366,
+    "hiragana": "わかる",
+    "kanji": "",
+    "type": "kk",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "mengerti"
+  },
+  {
+    "id": 367,
+    "hiragana": "おかね",
+    "kanji": "お金",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "uang"
+  },
+  {
+    "id": 368,
+    "hiragana": "おろす",
+    "kanji": "",
+    "type": "kk",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "menarik / mengambil (uang)"
+  },
+  {
+    "id": 369,
+    "hiragana": "しょくじ",
+    "kanji": "食事",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "makan"
+  },
+  {
+    "id": 370,
+    "hiragana": "ちょっと",
+    "kanji": "",
+    "type": "kt",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "sedikit"
+  },
+  {
+    "id": 371,
+    "hiragana": "やすむ",
+    "kanji": "休む",
+    "type": "kk",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "istirahat"
+  },
+  {
+    "id": 372,
+    "hiragana": "ジョギングシューズ",
+    "kanji": "",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "sepatu joging"
+  },
+  {
+    "id": 373,
+    "hiragana": "エーティーエム",
+    "kanji": "ATM",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "ATM"
+  },
+  {
+    "id": 374,
+    "hiragana": "ゲームコーナー",
+    "kanji": "",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "game arcade"
+  },
+  {
+    "id": 375,
+    "hiragana": "フードコート",
+    "kanji": "",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "food court"
+  },
+  {
+    "id": 376,
+    "hiragana": "カフェ",
+    "kanji": "",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "kafe"
+  },
+  {
+    "id": 377,
+    "hiragana": "えいがかん",
+    "kanji": "映画館",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "bioskop"
+  },
+  {
+    "id": 378,
+    "hiragana": "スポーツてん",
+    "kanji": "スポーツ店",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "toko peralatan olahraga"
+  },
+  {
+    "id": 379,
+    "hiragana": "このあと",
+    "kanji": "",
+    "type": "kt",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "setelah ini"
+  },
+  {
+    "id": 380,
+    "hiragana": "おなかがすく",
+    "kanji": "お腹がすく",
+    "type": "kk",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "merasa lapar"
+  },
+  {
+    "id": 381,
+    "hiragana": "なにか",
+    "kanji": "何か",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "sesuatu"
+  },
+  {
+    "id": 382,
+    "hiragana": "そのまえに",
+    "kanji": "その前に",
+    "type": "kt",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "sebelum itu"
+  },
+  {
+    "id": 383,
+    "hiragana": "すばらしい",
+    "kanji": "",
+    "type": "ks",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "bagus"
+  },
+  {
+    "id": 384,
+    "hiragana": "むずかしい",
+    "kanji": "難しい",
+    "type": "ks",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "sulit"
+  },
+  {
+    "id": 385,
+    "hiragana": "かんどうする",
+    "kanji": "感動する",
+    "type": "kk",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "terkesan"
+  },
+  {
+    "id": 386,
+    "hiragana": "かわいい",
+    "kanji": "",
+    "type": "ks",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "lucu; manis"
+  },
+  {
+    "id": 387,
+    "hiragana": "てんらんかい",
+    "kanji": "展覧会",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "pameran"
+  },
+  {
+    "id": 388,
+    "hiragana": "パンダ",
+    "kanji": "",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "panda"
+  },
+  {
+    "id": 389,
+    "hiragana": "サル",
+    "kanji": "",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "kera"
+  },
+  {
+    "id": 390,
+    "hiragana": "げんだい",
+    "kanji": "現代",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "modern"
+  },
+  {
+    "id": 391,
+    "hiragana": "さくひん",
+    "kanji": "作品",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "karya seni"
+  },
+  {
+    "id": 392,
+    "hiragana": "ホラーえいが",
+    "kanji": "ホラー映画",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "film horor"
+  },
+  {
+    "id": 393,
+    "hiragana": "つまらない",
+    "kanji": "",
+    "type": "ks",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "membosankan"
+  },
+  {
+    "id": 394,
+    "hiragana": "たいくつ（な）",
+    "kanji": "退屈（な）",
+    "type": "kn",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "bosan; membosankan"
+  },
+  {
+    "id": 395,
+    "hiragana": "いまいち（な）",
+    "kanji": "",
+    "type": "kn",
+    "source": "irodori1",
+    "chapter": "8",
+    "meaning": "tidak cukup bagus; membosankan"
+  }
+]

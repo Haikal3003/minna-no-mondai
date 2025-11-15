@@ -1,0 +1,578 @@
+[
+  {
+    "id": 410,
+    "hiragana": "にほんごがっこう",
+    "kanji": "日本語学校",
+    "type": "noun",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "Sekolah bahasa Jepang"
+  },
+  {
+    "id": 411,
+    "hiragana": "こうこう",
+    "kanji": "高校",
+    "type": "noun",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "SMA"
+  },
+  {
+    "id": 412,
+    "hiragana": "どれぐらい",
+    "kanji": "",
+    "type": "adverb",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "berapa lama"
+  },
+  {
+    "id": 413,
+    "hiragana": "じょうず（な）",
+    "kanji": "上手（な）",
+    "type": "adjective-na",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "pandai / terampil"
+  },
+  {
+    "id": 414,
+    "hiragana": "～かん",
+    "kanji": "～間",
+    "type": "suffix",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "selama ～"
+  },
+  {
+    "id": 415,
+    "hiragana": "じぶんで",
+    "kanji": "自分で",
+    "type": "expression",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "melakukan sendiri"
+  },
+  {
+    "id": 416,
+    "hiragana": "まだまだです",
+    "kanji": "",
+    "type": "expression",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "masih belum begitu mahir"
+  },
+  {
+    "id": 417,
+    "hiragana": "そんなことないです",
+    "kanji": "",
+    "type": "expression",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "tidak juga"
+  },
+  {
+    "id": 418,
+    "hiragana": "だいがく",
+    "kanji": "大学",
+    "type": "noun",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "universitas"
+  },
+  {
+    "id": 419,
+    "hiragana": "ラジオ",
+    "kanji": "",
+    "type": "noun",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "radio"
+  },
+  {
+    "id": 420,
+    "hiragana": "ネット",
+    "kanji": "",
+    "type": "noun",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "internet"
+  },
+  {
+    "id": 421,
+    "hiragana": "アプリ",
+    "kanji": "",
+    "type": "noun",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "aplikasi"
+  },
+  {
+    "id": 422,
+    "hiragana": "にほんご",
+    "kanji": "日本語",
+    "type": "noun",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "Bahasa Jepang"
+  },
+  {
+    "id": 423,
+    "hiragana": "べんきょう",
+    "kanji": "勉強",
+    "type": "verb",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "belajar"
+  },
+  {
+    "id": 424,
+    "hiragana": "かんたん（な）",
+    "kanji": "簡単（な）",
+    "type": "adjective-na",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "mudah; gampang"
+  },
+  {
+    "id": 425,
+    "hiragana": "むずかしい",
+    "kanji": "難しい",
+    "type": "adjective-i",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "susah; sulit"
+  },
+  {
+    "id": 426,
+    "hiragana": "にている",
+    "kanji": "似ている",
+    "type": "verb",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "serupa; mirip"
+  },
+  {
+    "id": 427,
+    "hiragana": "ちがう",
+    "kanji": "違う",
+    "type": "verb",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "berbeda"
+  },
+  {
+    "id": 428,
+    "hiragana": "とくい（な）",
+    "kanji": "得意（な）",
+    "type": "adjective-na",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "mahir; pandai"
+  },
+  {
+    "id": 429,
+    "hiragana": "にがて（な）",
+    "kanji": "苦手（な）",
+    "type": "adjective-na",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "tidak mahir; tidak pandai"
+  },
+  {
+    "id": 430,
+    "hiragana": "ぶんぽう",
+    "kanji": "文法",
+    "type": "noun",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "tata bahasa"
+  },
+  {
+    "id": 431,
+    "hiragana": "はつおん",
+    "kanji": "発音",
+    "type": "noun",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "pelafalan"
+  },
+  {
+    "id": 432,
+    "hiragana": "もじ",
+    "kanji": "文字",
+    "type": "noun",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "huruf"
+  },
+  {
+    "id": 433,
+    "hiragana": "ひらがな",
+    "kanji": "",
+    "type": "noun",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "hiragana"
+  },
+  {
+    "id": 434,
+    "hiragana": "カタカナ",
+    "kanji": "",
+    "type": "noun",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "katakana"
+  },
+  {
+    "id": 435,
+    "hiragana": "かんじ",
+    "kanji": "漢字",
+    "type": "noun",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "kanji"
+  },
+  {
+    "id": 436,
+    "hiragana": "かいわ",
+    "kanji": "会話",
+    "type": "noun",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "percakapan"
+  },
+  {
+    "id": 437,
+    "hiragana": "モンゴルご",
+    "kanji": "モンゴル語",
+    "type": "noun",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "bahasa Mongolia"
+  },
+  {
+    "id": 438,
+    "hiragana": "ベトナムご",
+    "kanji": "ベトナム語",
+    "type": "noun",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "bahasa Vietnam"
+  },
+  {
+    "id": 439,
+    "hiragana": "おぼえる",
+    "kanji": "覚える",
+    "type": "verb",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "menghafal"
+  },
+  {
+    "id": 440,
+    "hiragana": "おしえる",
+    "kanji": "教える",
+    "type": "verb",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "mengajar"
+  },
+  {
+    "id": 441,
+    "hiragana": "じしょ",
+    "kanji": "辞書",
+    "type": "noun",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "kamus"
+  },
+  {
+    "id": 442,
+    "hiragana": "かす",
+    "kanji": "貸す",
+    "type": "verb",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "meminjamkan"
+  },
+  {
+    "id": 443,
+    "hiragana": "みせる",
+    "kanji": "見せる",
+    "type": "verb",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "memperlihatkan"
+  },
+  {
+    "id": 444,
+    "hiragana": "チェックする",
+    "kanji": "",
+    "type": "verb",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "memeriksa"
+  },
+  {
+    "id": 445,
+    "hiragana": "せつめいする",
+    "kanji": "説明する",
+    "type": "verb",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "menjelaskan"
+  },
+  {
+    "id": 446,
+    "hiragana": "かみ",
+    "kanji": "紙",
+    "type": "noun",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "kertas"
+  },
+  {
+    "id": 447,
+    "hiragana": "かく",
+    "kanji": "書く",
+    "type": "verb",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "menulis"
+  },
+  {
+    "id": 448,
+    "hiragana": "いう",
+    "kanji": "言う",
+    "type": "verb",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "mengatakan"
+  },
+  {
+    "id": 449,
+    "hiragana": "ゆっくり",
+    "kanji": "",
+    "type": "adverb",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "pelan-pelan"
+  },
+  {
+    "id": 450,
+    "hiragana": "～かた",
+    "kanji": "～方",
+    "type": "suffix",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "cara ~"
+  },
+  {
+    "id": 451,
+    "hiragana": "メール",
+    "kanji": "",
+    "type": "noun",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "surel"
+  },
+  {
+    "id": 452,
+    "hiragana": "しょるい",
+    "kanji": "書類",
+    "type": "noun",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "dokumen"
+  },
+  {
+    "id": 453,
+    "hiragana": "きょうかしょ",
+    "kanji": "教科書",
+    "type": "noun",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "buku pelajaran"
+  },
+  {
+    "id": 454,
+    "hiragana": "じしんがありません",
+    "kanji": "自信がありません",
+    "type": "expression",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "tidak percaya diri"
+  },
+  {
+    "id": 455,
+    "hiragana": "れんしゅう",
+    "kanji": "練習",
+    "type": "noun",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "latihan"
+  },
+  {
+    "id": 456,
+    "hiragana": "さがす",
+    "kanji": "探す",
+    "type": "verb",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "mencari"
+  },
+  {
+    "id": 457,
+    "hiragana": "なんかいも",
+    "kanji": "何回も",
+    "type": "expression",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "berulang kali; berkali-kali"
+  },
+  {
+    "id": 458,
+    "hiragana": "きょうしつ",
+    "kanji": "教室",
+    "type": "noun",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "ruang kelas"
+  },
+  {
+    "id": 459,
+    "hiragana": "むりょう",
+    "kanji": "無料",
+    "type": "noun",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "gratis"
+  },
+  {
+    "id": 460,
+    "hiragana": "せんせい",
+    "kanji": "先生",
+    "type": "noun",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "guru"
+  },
+  {
+    "id": 461,
+    "hiragana": "ちえ",
+    "kanji": "知恵",
+    "type": "noun",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "kebijaksanaan"
+  },
+  {
+    "id": 462,
+    "hiragana": "はいしゃくする",
+    "kanji": "拝借する",
+    "type": "verb",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "meminjam"
+  },
+  {
+    "id": 463,
+    "hiragana": "サイト",
+    "kanji": "",
+    "type": "noun",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "situs web"
+  },
+  {
+    "id": 464,
+    "hiragana": "トップ",
+    "kanji": "",
+    "type": "noun",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "(halaman) utama"
+  },
+  {
+    "id": 465,
+    "hiragana": "カテゴリー",
+    "kanji": "",
+    "type": "noun",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "kategori"
+  },
+  {
+    "id": 466,
+    "hiragana": "ランキング",
+    "kanji": "",
+    "type": "noun",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "peringkat"
+  },
+  {
+    "id": 467,
+    "hiragana": "わし",
+    "kanji": "",
+    "type": "pronoun",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "Saya (biasanya digunakan oleh orang tua)"
+  },
+  {
+    "id": 468,
+    "hiragana": "けんさく",
+    "kanji": "検索",
+    "type": "noun",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "pencarian"
+  },
+  {
+    "id": 469,
+    "hiragana": "しつもん",
+    "kanji": "質問",
+    "type": "noun",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "pertanyaan"
+  },
+  {
+    "id": 470,
+    "hiragana": "そうだん",
+    "kanji": "相談",
+    "type": "noun",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "konsultasi"
+  },
+  {
+    "id": 471,
+    "hiragana": "おしゃべりする",
+    "kanji": "",
+    "type": "verb",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "berbincang"
+  },
+  {
+    "id": 472,
+    "hiragana": "シャドーイングする",
+    "kanji": "",
+    "type": "verb",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "melakukan teknik shadowing"
+  },
+  {
+    "id": 473,
+    "hiragana": "ボランティア",
+    "kanji": "",
+    "type": "noun",
+    "source": "irodori1",
+    "chapter": 9,
+    "meaning": "sukarelawan"
+  }
+]

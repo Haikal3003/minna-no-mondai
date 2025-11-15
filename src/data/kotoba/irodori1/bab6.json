@@ -1,0 +1,452 @@
+[
+  {
+    "id": 264,
+    "hiragana": "ある",
+    "kanji": "ある（町にあるもの）",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "ada (berbagai hal/sesuatu yang ada di kota)"
+  },
+  {
+    "id": 265,
+    "hiragana": "もの",
+    "kanji": "もの",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "hal; sesuatu; benda"
+  },
+  {
+    "id": 266,
+    "hiragana": "しんごう",
+    "kanji": "信号",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "lampu lalu lintas"
+  },
+  {
+    "id": 267,
+    "hiragana": "おうだんほどう",
+    "kanji": "横断歩道",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "penyeberangan pejalan kaki; zebra cross"
+  },
+  {
+    "id": 268,
+    "hiragana": "かど",
+    "kanji": "角",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "sudut"
+  },
+  {
+    "id": 269,
+    "hiragana": "こうさてん",
+    "kanji": "交差点",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "persimpangan"
+  },
+  {
+    "id": 270,
+    "hiragana": "みち",
+    "kanji": "道",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "jalan"
+  },
+  {
+    "id": 271,
+    "hiragana": "はし",
+    "kanji": "橋",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "jembatan"
+  },
+  {
+    "id": 272,
+    "hiragana": "みちあんない",
+    "kanji": "道案内",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "petunjuk arah"
+  },
+  {
+    "id": 273,
+    "hiragana": "まっすぐ",
+    "kanji": "まっすぐ",
+    "type": "kt",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "lurus"
+  },
+  {
+    "id": 274,
+    "hiragana": "ひだり",
+    "kanji": "左",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "kiri"
+  },
+  {
+    "id": 275,
+    "hiragana": "まがる",
+    "kanji": "曲がる［1］",
+    "type": "kk",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "belok; berbelok"
+  },
+  {
+    "id": 276,
+    "hiragana": "みぎ",
+    "kanji": "右",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "kanan"
+  },
+  {
+    "id": 277,
+    "hiragana": "わたる",
+    "kanji": "渡る［1］",
+    "type": "kk",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "menyeberang"
+  },
+  {
+    "id": 278,
+    "hiragana": "～つめ",
+    "kanji": "～つ目",
+    "type": "et",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "yang~ (urutan)"
+  },
+  {
+    "id": 279,
+    "hiragana": "ひとつめ",
+    "kanji": "1つ目",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "pertama"
+  },
+  {
+    "id": 280,
+    "hiragana": "ふたつめ",
+    "kanji": "2つ目",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "kedua"
+  },
+  {
+    "id": 281,
+    "hiragana": "バスてい",
+    "kanji": "バス停",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "halte bus"
+  },
+  {
+    "id": 282,
+    "hiragana": "ゆうびんきょく",
+    "kanji": "郵便局",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "kantor pos"
+  },
+  {
+    "id": 283,
+    "hiragana": "デパート",
+    "kanji": "デパート",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "toserba; department store"
+  },
+  {
+    "id": 284,
+    "hiragana": "かがく",
+    "kanji": "化学",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "ilmu pengetahuan"
+  },
+  {
+    "id": 285,
+    "hiragana": "はくぶつかん",
+    "kanji": "博物館",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "museum"
+  },
+  {
+    "id": 286,
+    "hiragana": "ずっと",
+    "kanji": "ずっと",
+    "type": "kk",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "(lurus) terus"
+  },
+  {
+    "id": 287,
+    "hiragana": "しりつ",
+    "kanji": "市立",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "(milik) kota"
+  },
+  {
+    "id": 288,
+    "hiragana": "すぐ",
+    "kanji": "すぐ",
+    "type": "kk",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "langsung; tepat"
+  },
+  {
+    "id": 289,
+    "hiragana": "まがったところ",
+    "kanji": "曲がったところ",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "setelah berbelok"
+  },
+  {
+    "id": 290,
+    "hiragana": "ぎんこう",
+    "kanji": "銀行",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "bank"
+  },
+  {
+    "id": 291,
+    "hiragana": "じんじゃ",
+    "kanji": "神社",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "kuil Shinto"
+  },
+  {
+    "id": 292,
+    "hiragana": "ちゅうしゃじょう",
+    "kanji": "駐車場",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "tempat parkir"
+  },
+  {
+    "id": 293,
+    "hiragana": "こうばん",
+    "kanji": "交番",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "pos polisi"
+  },
+  {
+    "id": 294,
+    "hiragana": "びょういん",
+    "kanji": "病院",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "rumah sakit"
+  },
+  {
+    "id": 295,
+    "hiragana": "くろい",
+    "kanji": "黒い",
+    "type": "ks",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "hitam"
+  },
+  {
+    "id": 296,
+    "hiragana": "しろい",
+    "kanji": "白い",
+    "type": "ks",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "putih"
+  },
+  {
+    "id": 297,
+    "hiragana": "あおい",
+    "kanji": "青い",
+    "type": "ks",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "biru"
+  },
+  {
+    "id": 298,
+    "hiragana": "ビル",
+    "kanji": "ビル",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "bangunan"
+  },
+  {
+    "id": 299,
+    "hiragana": "アジアしょくざい",
+    "kanji": "アジア食材",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "bahan makanan khas Asia"
+  },
+  {
+    "id": 300,
+    "hiragana": "そちら",
+    "kanji": "そちら",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "di situ"
+  },
+  {
+    "id": 301,
+    "hiragana": "きたぐち",
+    "kanji": "北口",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "pintu utara"
+  },
+  {
+    "id": 302,
+    "hiragana": "あいだ",
+    "kanji": "間",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "di antara ～ dan ～"
+  },
+  {
+    "id": 303,
+    "hiragana": "そうすると",
+    "kanji": "そうすると",
+    "type": "kk",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "setelah itu"
+  },
+  {
+    "id": 304,
+    "hiragana": "みえる",
+    "kanji": "見える［2］",
+    "type": "kk",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "terlihat"
+  },
+  {
+    "id": 305,
+    "hiragana": "おまちしております",
+    "kanji": "お待ちしております",
+    "type": "eksp",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "kami menantikan kedatangan Anda"
+  },
+  {
+    "id": 306,
+    "hiragana": "かえる",
+    "kanji": "帰る［1］",
+    "type": "kk",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "pulang"
+  },
+  {
+    "id": 307,
+    "hiragana": "～ちょう",
+    "kanji": "～町",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "kota (pembagian geografis)"
+  },
+  {
+    "id": 308,
+    "hiragana": "こうこう",
+    "kanji": "高校",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "SMA"
+  },
+  {
+    "id": 309,
+    "hiragana": "おくる",
+    "kanji": "送る［1］",
+    "type": "kk",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "mengantar (orang)"
+  },
+  {
+    "id": 310,
+    "hiragana": "おおきな",
+    "kanji": "大きな",
+    "type": "ks",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "besar"
+  },
+  {
+    "id": 311,
+    "hiragana": "はいる",
+    "kanji": "入る［1］",
+    "type": "kk",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "masuk; berbelok"
+  },
+  {
+    "id": 312,
+    "hiragana": "どのへん",
+    "kanji": "どの辺？",
+    "type": "kb",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "di daerah mana?"
+  },
+  {
+    "id": 313,
+    "hiragana": "ここでいいです",
+    "kanji": "ここでいいです",
+    "type": "eksp",
+    "source": "irodori1",
+    "chapter": "6",
+    "meaning": "di sini saja"
+  }
+]
