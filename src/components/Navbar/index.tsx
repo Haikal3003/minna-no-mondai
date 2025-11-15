@@ -10,8 +10,8 @@ export function Navbar() {
   const navItems = [
     { to: '/', line: <RiHome3Line size={22} />, fill: <RiHome3Fill size={22} />, match: '/' },
     { to: '/kotoba', line: <span className="text-sm">言葉</span>, fill: <span className="text-sm font-bold">言葉</span>, match: '/kotoba' },
-    { to: '/bunpou', line: <span className="text-sm">文法</span>, fill: <span className="text-sm font-bold">文法</span>, match: '/bunpou' },
     { to: '/kanji', line: <span className="text-sm">漢字</span>, fill: <span className="text-sm font-bold">漢字</span>, match: '/kanji' },
+    { to: '/latihan', line: <span className="text-sm">練習</span>, fill: <span className="text-sm font-bold">練習</span>, match: '/latihan' },
     { to: '/tentang', line: <PiQuestionLight size={22} />, fill: <PiQuestionFill size={22} />, match: '/tentang' },
   ];
 
